@@ -6,7 +6,7 @@ This repo is a fork of the work by @travelping - so thanks for the helpful base.
 
 The following settings in the Vagrantfile must be configured:
 
-**The nodes count in the Cluster: (Defunt in this repo)**
+**The nodes count in the Cluster: (Defunct in this repo)**
 
 `CLUSTER_SIZE = 3`
 
