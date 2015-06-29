@@ -2,7 +2,7 @@
 # vi: set ft=ruby :
 
 #cluster configuration
-# CLUSTER_SIZE = 3
+CLUSTER_SIZE = 3
 START_CLUSTER_ID = 1
 FROM_IP = "192.168.100.101"
 ALL_NODES_IN_CLUSTER = ["192.168.100.101","192.168.100.102","192.168.100.103"]
